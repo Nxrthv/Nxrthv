@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing my studies 🎓<br>I would like to collaborate with other developers 💻<br>I always like to learn 📚<br>I really like web development and design 🎨<br>I can work in a team 🤝<br>
+I am currently doing my studies 🎓<br>I would like to collaborate with other developers 💻<br>I like to always learn 📚<br>I really like web development and design 🎨<br>I can work in a team 🤝<br>
 
 
 ## 🌐 Socials:
